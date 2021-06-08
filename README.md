@@ -3,7 +3,7 @@
 A Floyd Steinberg implementation using p5.js
 
 
-[Floyd-Steinberg Dithering WIkipedia](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering)
+[Floyd-Steinberg Dithering Wikipedia](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering)
 
 [Floyd-Steinberg Dithering Coding Challenge #90](https://thecodingtrain.com/CodingChallenges/090-floyd-steinberg-dithering.html)
 
